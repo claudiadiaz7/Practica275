@@ -4,6 +4,6 @@ public class MyPoint {
 	public int y;
 	
 	public String toString(){
-		return "[" + x + "," + y + "]";
+		return "[" + x + "," + y + "] cuadrito";
 	}
 }
